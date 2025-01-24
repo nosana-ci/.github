@@ -1,3 +1,6 @@
+![logo](https://nosana.com/img/logo-vertical.svg)
+
+
 # Powering AI for Everyone, Everywhere
 
 ![grid](https://raw.githubusercontent.com/nosana-ci/.github/main/profile/img/grid.svg)
