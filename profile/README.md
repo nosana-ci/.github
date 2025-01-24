@@ -1,4 +1,4 @@
-![logo](https://nosana.com/img/breakpointbanner.png)
+![logo](https://nosana.com/img/Nosana_Logo_horizontal_color_white.svg)
 
 
 # Powering AI for Everyone, Everywhere
