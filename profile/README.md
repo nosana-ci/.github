@@ -1,4 +1,4 @@
-# Powering the AI for everyone, everywhere
+# Powering AI for Everyone, Everywhere
 
 ![grid](https://raw.githubusercontent.com/nosana-ci/.github/main/profile/img/grid.svg)
 
