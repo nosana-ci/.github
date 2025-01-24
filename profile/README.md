@@ -1,4 +1,4 @@
-![logo](https://github.com/nosana-ci/.github/raw/refs/heads/main/profile/img/Nosana_Logo_horizontal_color_black.svg#gh-dark-mode-only)
+![logo](https://github.com/nosana-ci/.github/raw/refs/heads/main/profile/img/Nosana_Logo_horizontal_color_white.svg#gh-dark-mode-only)
 ![logo](https://github.com/nosana-ci/.github/raw/refs/heads/main/profile/img/Nosana_Logo_horizontal_color_black.svg#gh-light-mode-only)
 
 # Powering AI for Everyone, Everywhere
